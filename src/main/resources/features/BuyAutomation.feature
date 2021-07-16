@@ -2,6 +2,7 @@
 Característica: BUY Automation Practice
 
 
+  @Compra
   Esquema del escenario: BUY Automation Practice
     Dado Usuario ingresa pagina selecciona sign in ingresa su mail y selecciona Create an account "<caso_prueba>"
     Cuando Usuario ingresa sus credenciales "<caso_prueba>"
